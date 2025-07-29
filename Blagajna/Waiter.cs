@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blagajna
+namespace CashRegister
 {
-    class Konobar
+    class Waiter
     {
         string Name;
-        public Konobar(string name)
+        public Waiter(string name)
         {
             Name = name;
         }
